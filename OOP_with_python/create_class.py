@@ -28,3 +28,5 @@ MyConverter.ErrorMargin = 0.001
 
 print(f"{Celsius} + {MyConverter.ErrorMargin} OR {Celsius} - {MyConverter.ErrorMargin}  ")
 print(f"{Fahrenheit} + {MyConverter.ErrorMargin} OR {Fahrenheit} - {MyConverter.ErrorMargin}  ")
+
+#new class 
